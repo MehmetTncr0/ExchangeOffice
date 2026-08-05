@@ -1,2 +1,2 @@
-# ExchangeOffice
+# exchange-application
 a simple exchange project via python
